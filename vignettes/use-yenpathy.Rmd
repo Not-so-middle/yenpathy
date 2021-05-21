@@ -3,7 +3,7 @@ title: "Using Yenpathy"
 author: "Toph Allen and Noam Ross, EcoHealth Alliance"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{using-yenpathy}
+  %\VignetteIndexEntry{use-yenpathy}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 bibliography: paper.bib
